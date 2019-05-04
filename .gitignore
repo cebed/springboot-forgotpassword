@@ -7,3 +7,7 @@ application.yml
 *.iws
 *.iml
 *.ipr
+
+HELP.md
+/target/
+!.mvn/wrapper/maven-wrapper.jar
